@@ -111,6 +111,6 @@ docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/doc
 
 <div align="center">
 <p> Thanks for the visit ❤️ </p> 
-  <img src="https://profile-counter.glitch.me/Maharshi-Mimo/FlaskApp/count.svg?"/>
+  <img src="https://img.shields.io/github/watchers/Maharshi-Mimo/FlaskApp?label=Repository%20visits&style=social"/>
 </div>
 
