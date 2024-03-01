@@ -109,5 +109,8 @@ docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/doc
 
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
-```
+<div align="center">
+<p> Thanks for the visit ❤️ </p> 
+  <img src="https://profile-counter.glitch.me/Maharshi-Mimo/FlaskApp/count.svg?"/>
+</div>
 
